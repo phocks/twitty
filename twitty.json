@@ -1,0 +1,18 @@
+{
+  "name": "Joshua Byrd",
+  "email": "phocks@gmail.com",
+  "twits": [
+    {
+      "time": "2020-01-29T15:49:00.000+10:00",
+      "text": "OK proof of concept is ready. Will probably show Simon, then get back to real work."
+    },
+    {
+      "time": "2020-01-29T14:19:00.000+10:00",
+      "text": "trying to get this thing working with multiple twits"
+    },
+    {
+      "time": "2020-01-29T13:26:02.644+10:00",
+      "text": "just setting up my twitty"
+    }
+  ]
+}
